@@ -16,7 +16,7 @@ For each specific company, you should include:
   - Results and achievements
   - Metrics or numbers
 
-**IMPORTANT NOTE:** Every resume bullet should start with an action verb ([here is a helpful resource](http://ocs.yale.edu/sites/default/files/Resume_Action_Verbs.pdf)). If it’s a position in the past, that verb needs to be in the SIMPLE PAST TENSE. If you’re still employed at that company, verbs should be in the SIMPLE PRESENT TENSE.  
+**IMPORTANT NOTE:** Every resume bullet should start with an action verb ([here is a helpful resource](http://www.careerprofiles.info/resume-action-words.html)). If it’s a position in the past, that verb needs to be in the SIMPLE PAST TENSE. If you’re still employed at that company, verbs should be in the SIMPLE PRESENT TENSE.  
 
 - When outlining your responsibilities and achievements, consistency in formatting, tenses and appropriate grammar are important.  All resumes should be in 3rd person.  No “I”, “me”, “my” or your name.
 
